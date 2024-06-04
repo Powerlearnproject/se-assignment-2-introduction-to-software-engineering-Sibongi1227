@@ -18,12 +18,12 @@ Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 
-Requirements: Gathering and documenting user needs and system requirements.
-Design: Creating high-level and detailed designs of the software architecture and user interface.
-Implementation: Writing code and building the software according to the design specifications.
-Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
-Deployment: Releasing the software to users and customers.
-Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
+- Requirements: Gathering and documenting user needs and system requirements.
+- Design: Creating high-level and detailed designs of the software architecture and user interface.
+- Implementation: Writing code and building the software according to the design specifications.
+- Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
+- Deployment: Releasing the software to users and customers.
+- Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
 
 *from class notes*
 
@@ -44,10 +44,10 @@ What is requirements engineering? Describe the process and its importance in the
 
 Requirements engineering is the process of identifying, documenting, and managing requirements in the engineering design process. 
 The process has the following four stages:
-Elicit requirements: Elicitation is the process of being informed of all of the key information associated with the project.
-Requirements specification: This is when the functional and nonfunctional project requirements are gathered.
-Verification and validation: During this stage, the client’s requirements are verified if they meet the project goals.
-Requirements management: During this stage, all the requirements are analyzed, documented for developers, and prioritized to communicate with the client.qu
+- Elicit requirements: Elicitation is the process of being informed of all of the key information associated with the project.
+- Requirements specification: This is when the functional and nonfunctional project requirements are gathered.
+- Verification and validation: During this stage, the client’s requirements are verified if they meet the project goals.
+- Requirements management: During this stage, all the requirements are analyzed, documented for developers, and prioritized to communicate with the client.qu
 
 Requirements engineering is important because it sets a specific path for project development. Also, clients may have a long list of ideas, features, and functionalities when building new software, and requirements engineering gives them a framework for fitting into these ideas.
 https://codilime.com/blog/requirements-engineering/
@@ -64,10 +64,10 @@ Testing in Software Engineering:
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 
-Unit Testing: Testing individual components or modules of software
-Integration Testing: Testing interactions between different components or subsystem
-System Testing: Testing the entire software system as a whole
-Acceptance Testing: Testing the software against user requirements to ensure it meets user needs
+- Unit Testing: Testing individual components or modules of software
+- Integration Testing: Testing interactions between different components or subsystem
+- System Testing: Testing the entire software system as a whole
+- Acceptance Testing: Testing the software against user requirements to ensure it meets user needs
 
 It is crucial in software development because quality control measures such as code reviews, automated testing, and continuous integration help identify and fix defects early in the development process leading to higher-quality software products
 
@@ -87,6 +87,21 @@ SVN — SVN (short for Subversion) is another free, open-source version control 
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+
+The main role of software project manager is to execute and supervise the software project life cycle and to ensure that it is working as per desired schedule. Project manager is also responsible for establishing proper coordination between project stakeholders.
+
+Key responsibilities are: planning everything from execution to delivery, overseeing the software development team, delegating work effectively, monitoring progress and tracking roadblocks, and managing the deployment of deliverables. 
+https://www.tatvasoft.com/outsourcing/2023/02/role-of-software-project-manager.html
+
+Challenges faced in managing software projects:
+- Misalignment between goals and business objectives 
+- Communication 
+- Lack of accountability 
+- Resource allocation 
+- Scope creep
+- Project management software
+- Poor planning and unrealistic deadlines 
+
 Software Maintenance:
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
