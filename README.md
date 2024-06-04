@@ -56,6 +56,10 @@ Software Design Principles:
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 
+Modularity specifies the division of software into separate modules that are differently named and addressed and are integrated later on to obtain the completely functional software. 
+
+Modularity can improve maintainability by separating different functions in a software system into different units - modules - it becomes possible to change or correct a flaw in a module without affecting the other parts of the system. One can work on one module without affecting the others, and debugging and maintenance become simplified and easy. Modularity can improve scalability by allowing additional modules that can be added to enable more features or expand on existing features and functions. https://www.javatpoint.com/software-engineering-software-design-principles
+
 Testing in Software Engineering:
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
@@ -70,6 +74,16 @@ It is crucial in software development because quality control measures such as c
 Version Control Systems:
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+Version control systems are a category of software tools that helps in recording changes made to files by keeping a track of modifications done in the code.It is important in that it helps the developer team to efficiently communicate and manage(track) all the changes that have been made to the source code along with the information like who made and what changes have been made. https://www.geeksforgeeks.org/version-control-systems/
+
+Below is a list of popular version control systems and their features:
+
+Helix Core — Helix Core, one of the leading version control examples, is a centralized version control system by Perforce Software. It’s the leading version control system for game developers and is also used in media & entertainment and semiconductor design, among other industries. It offers visibility to collaborative teams, showing when others are using the same data, and it provides a locking strategy to prevent the overwriting of critical data. It is free for up to five users.
+
+Git — Git is a widely popular, distributed control system for developers. Git source control is open-source and therefor free to use. It offers easy branching and is great for small projects but has file and repo size limits.
+
+SVN — SVN (short for Subversion) is another free, open-source version control system developed by Apache. It is a centralized version control system. It offers good concurrent development processes, but its branch and merge functions are not strong.
+
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
